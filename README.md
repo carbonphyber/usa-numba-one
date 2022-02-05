@@ -6,6 +6,10 @@
 
 ## Health
 
+### Price Efficiency
+
+![](https://pbs.twimg.com/media/DyVW1HiWkAAmU4M?format=jpg&name=4096x4096)
+
 ### Infant Mortality
 
 ![](https://assets.americashealthrankings.org/app/uploads/ahr2019fig24.png)
